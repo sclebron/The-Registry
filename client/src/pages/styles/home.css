@@ -1,7 +1,7 @@
 .homeBg {
   width: 100%;
   height: 100%;
-  background-color: rgb(228, 182, 254);
+  background-color: EDEDED;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,7 +39,7 @@ Form {
   width: 70%;
   background-color: white;
   border-style: solid;
-  border-color: #8064a2;
+  border-color: FF8787;
   color: black;
   border-radius: 7px;
   border-width: 3px;
